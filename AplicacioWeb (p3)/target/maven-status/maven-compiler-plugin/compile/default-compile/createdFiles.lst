@@ -1,0 +1,8 @@
+com\joancortes\aplicacioweb\db\package-info.class
+com\joancortes\aplicacioweb\servlets\Consulta.class
+com\joancortes\aplicacioweb\servlets\package-info.class
+com\joancortes\aplicacioweb\resources\JakartaEE11Resource.class
+com\joancortes\aplicacioweb\JakartaRestConfiguration.class
+com\joancortes\aplicacioweb\db\Connexio.class
+com\joancortes\aplicacioweb\resources\package-info.class
+com\joancortes\aplicacioweb\package-info.class

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.joancortes.aplicacioweb.db","l":"Connexio"},{"p":"com.joancortes.aplicacioweb.servlets","l":"Consulta"},{"p":"com.joancortes.aplicacioweb.resources","l":"JakartaEE11Resource"},{"p":"com.joancortes.aplicacioweb","l":"JakartaRestConfiguration"}];updateSearchResults();

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.joancortes.aplicacioweb"},{"l":"com.joancortes.aplicacioweb.db"},{"l":"com.joancortes.aplicacioweb.resources"},{"l":"com.joancortes.aplicacioweb.servlets"}];updateSearchResults();
